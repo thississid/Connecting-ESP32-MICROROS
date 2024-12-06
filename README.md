@@ -2,6 +2,8 @@
 
 This is a Flask-based web application to control an LED connected to an ESP32. The app allows users to turn the LED on or off and check its status using a web interface.
 
+![image alt] (https://github.com/thississid/Connecting-ESP32-MICROROS/blob/88ca65e7c5abfaa8a64a661fe2c06ca2cc11b481/ESP32%20GPIO%20Banner%20Image.jpg)
+
 ## Features
 
 - **Turn LED ON**: Sends a request to the ESP32 to turn the LED on.
